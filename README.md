@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My name is Gerard
-I'm interesting in coding.
+I'm interested in coding.
 
 ## Contacts
 #### E-Mail
